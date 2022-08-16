@@ -10,13 +10,13 @@
 
 ---
 
-<div style="display: flex; gap: 150px"> 
+<div> 
     <a href = "mailto:valery.nosareu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail" alt="email"></a>
     <a href="https://t.me/Cstrp"><img src="https://img.shields.io/badge/-Telegram-%23333?style=for-the-badge&logo=telegram" alt="telegram"></a>
 </div>
 
 ---
-<p style="display: flex; flex-direction: row; justify-content: space-around">
+<p align="center">
  <img alt="html5" src="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=FFFFFF">
  <img alt="scss" src="https://img.shields.io/badge/scss-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=FFFFFF">
  <img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=000000">
@@ -28,7 +28,7 @@
 
 ---
 
-<div style="display: flex; flex-direction: column; align-items: center">
+<div align="center">
 
 ![details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cstrp&theme=github_dark)
 
