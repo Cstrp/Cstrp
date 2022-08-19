@@ -13,6 +13,7 @@
 <div> 
     <a href = "mailto:valery.nosareu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail" alt="email"></a>
     <a href="https://t.me/Cstrp"><img src="https://img.shields.io/badge/-Telegram-%23333?style=for-the-badge&logo=telegram" alt="telegram"></a>
+    <a href="https://www.linkedin.com/in/valery-nosareu-245876235/"><img src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=linkedin" alt="linkedin"></a>
 </div>
 
 ---
