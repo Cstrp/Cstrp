@@ -41,6 +41,4 @@
 [![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cstrp&theme=github_dark)](https://github.com/cstrp)
 [![time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Cstrp&theme=github_dark)](https://github.com/cstrp)
 
-[![stats](https://wakatime.com/share/@5c733fe5-cfbd-4d9f-82a2-e4e98cd8c26e/50244bfe-eb76-476d-8c8f-71228106ad80.png)](https://github.com/cstrp)
-[![stats](https://wakatime.com/share/@5c733fe5-cfbd-4d9f-82a2-e4e98cd8c26e/2a45bbd9-cbc2-48b8-9d7c-fe69743343e9.png)](https://github.com/cstrp)
 </div>
