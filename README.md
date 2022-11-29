@@ -29,6 +29,7 @@
  <img alt="git" src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=FFFFFF">
  <img alt="webpack" src="https://img.shields.io/badge/-webpack-0000FF.svg?&style=for-the-badge&logo=webpack&logoColor=FFFFFF">
  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-E10098?style=for-the-badge&logo=github-actions&logoColor=FFFFFF" />
+ <img alt="Angular" src="https://img.shields.io/badge/-angular-FF0000.svg?&style=for-the-badge&logo=angular&logoColor=FFA07A" />
  <img alt="google" src="https://img.shields.io/badge/-google-8F00FF?style=for-the-badge&logo=google" />
 </p>
 
