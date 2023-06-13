@@ -1,10 +1,24 @@
----
-### Name: Valery<br/>
+<table><tr><td valign="top" width="50%">
 
-### 🌏 Location: Belarus<br/>
+- 🌱 Name: Valery<br/>
 
-#### 👾️ I like to develop useful applications for users.<br/>
----
+- 🌏 Location: Belarus<br/>
+
+- 🔭 I'm interested in exploring cutting-edge technologies and finding innovative solutions to complex problems. Constantly expanding my knowledge and staying up-to-date with the latest trends in the tech industry.
+
+- 💡 Passionate about building scalable and performance web applications. Always striving to optimize code efficiency and improve user experience.<br/>
+
+- 🎯 Currently focusing on enhancing my skills in Golang and Kubernetes. Excited to delve into the world of containerization and cloud-native development.<br/>
+
+</td><td valign="top" width="50%">
+
+<div align="center">
+<img src="https://media.tenor.com/3QRTp93KPX0AAAAd/ryuko-kill-la-kill.gif" align="center" style="width: 100%" />
+</div>
+
+</td></tr></table>
+
+<br/>
 
 ## 🌐 Socials:
 
@@ -56,17 +70,17 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-<div align="center">
-    
 ---
+
+<div align="center"> 
 
 # 📊 GitHub Stats:
 
 [![details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cstrp&theme=github_dark)](https://github.com/cstrp)
-
 [![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cstrp&theme=github_dark)](https://github.com/cstrp)
 [![time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Cstrp&theme=github_dark)](https://github.com/cstrp)
-
 ![stats](https://github-readme-streak-stats.herokuapp.com/?user=Cstrp&theme=dark)<br/>
 
 </div>
+
+
