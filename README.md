@@ -8,10 +8,6 @@
 
 #### 👾️ I like to develop useful applications for users.<br/>
 
-#### ➡ I’m currently looking for a job, to code and grow as a specialist and gain new skills.<br/>
-
-#### 🛑 Currently developing [Coming soon]()<br/>
-
 ---
 
 <div>
