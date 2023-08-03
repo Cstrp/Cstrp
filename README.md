@@ -1,19 +1,15 @@
-<h3 align="right">Hi 👋! My name is Valery and I'm a full stack developer, from Belarus</h3>
-
-###
-
-<img align="left" height="180" src="https://camo.githubusercontent.com/d38f6ebc3ad960c6c2cbcfda8675c31bdda431fce5fba40d41fb8583f9cbc1ec/68747470733a2f2f616e6979756b692e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30352f6769662d616e6979756b692d7a65726f2d74776f2d34392e676966"  />
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cstrp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cstrp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="left">Hi 👋! My name is Valery and I'm a full stack developer, from Belarus</p>
 
 ###
 
 <br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cstrp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cstrp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/valery-n-245876235/" target="_blank">
