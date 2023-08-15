@@ -1,13 +1,14 @@
 <br clear="both">
 
-<div align="left" style="display: flex; justify-content: space-around">
-  <img height="200" src="https://camo.githubusercontent.com/d38f6ebc3ad960c6c2cbcfda8675c31bdda431fce5fba40d41fb8583f9cbc1ec/68747470733a2f2f616e6979756b692e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30352f6769662d616e6979756b692d7a65726f2d74776f2d34392e676966"  />
-    <h1 align="center">Hey there 👋</h1>
+<div align="сутеук">
+  <img align="left" height="200" src="https://camo.githubusercontent.com/d38f6ebc3ad960c6c2cbcfda8675c31bdda431fce5fba40d41fb8583f9cbc1ec/68747470733a2f2f616e6979756b692e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30352f6769662d616e6979756b692d7a65726f2d74776f2d34392e676966" alt="img" />
+  <h1 align="left" style="margin-left: 20px;">Hey there 👋</h1>
 </div>
+
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/valery-n-245876235/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
