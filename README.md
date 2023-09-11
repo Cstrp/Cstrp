@@ -6,7 +6,6 @@
 </div>
 
 
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/valery-n-245876235/" target="_blank">
@@ -51,16 +50,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
 
-###
-
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=cstrp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=bear&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=cstrp&locale=en&mode=weekly&theme=bear&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cstrp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=bear&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+
+<img align="right" alt="🦑" src="https://user-images.githubusercontent.com/22963968/114021347-e3c48b80-9870-11eb-8bc8-998bf39b4d0d.png">
