@@ -1,7 +1,7 @@
 <h2 align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="50"> 
+  <img src="https://i.giphy.com/3o7btTODQcZhN6eLQs.webp" width="50"> 
   Hi! My name is Valery, and I'm a Full Stack Developer
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="50">
+  <img src="https://i.giphy.com/3o7btTODQcZhN6eLQs.webp" width="50"> 
 </h1>
 
 
