@@ -1,24 +1,31 @@
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Hi! My name is Valery and I'm a full stack developer from belarus 
+<h2 align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="50"> 
+  Hi! My name is Valery, and I'm a Full Stack Developer
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="50">
+</h1>
 
-<div align="center">
-  <img align="left" height="200" src="https://camo.githubusercontent.com/d38f6ebc3ad960c6c2cbcfda8675c31bdda431fce5fba40d41fb8583f9cbc1ec/68747470733a2f2f616e6979756b692e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30352f6769662d616e6979756b692d7a65726f2d74776f2d34392e676966" alt="img" />
-</div>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/valery-n-245876235/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://t.me/Cstrp" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-</div>
+---
 
-<h3 align="left">🛠 Language and tools</h3>
+### 🌟 About Me
+
+I'm a dedicated developer with a love for building dynamic, user-friendly applications. With a solid foundation in both frontend and backend technologies, I strive to create seamless, scalable solutions. My journey in development began with a fascination for how things work under the hood, leading me to explore various technologies and frameworks.
+
+<blockquote align="center">
+  <p>"Never give up, because great things take time."</p>
+  <cite>— <i>Naruto</i></cite>
+</blockquote>
+
+- 🌱 I’m currently learning **[VUE]** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- 💬 Ask me about **JavaScript, TypeScript, React, Angular, Node.js, and Docker**
+- ⚡ Fun fact: I love watching anime and often find inspiration for my projects from it!
+
+---
+
+### 🛠 Languages and Tools
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -53,9 +60,9 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo"  />
 </div>
 
-###
+---
 
-<br clear="both">
+### 📊 GitHub Stats
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=cstrp&locale=en&mode=weekly&theme=rose_pine&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
@@ -63,7 +70,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cstrp&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=rose_pine&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-###
+---
 
+### 📫 How to Reach Me
 
-<img align="center" alt="🦑" src="https://user-images.githubusercontent.com/22963968/114021347-e3c48b80-9870-11eb-8bc8-998bf39b4d0d.png">
+<div align="left">
+  <a href="https://www.linkedin.com/in/valery-n-245876235/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://t.me/Cstrp" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+</div>
