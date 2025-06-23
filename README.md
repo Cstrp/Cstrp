@@ -4,8 +4,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=cstrp&style=flat-square&color=00ff00" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Tesla%20Fan-FF0000?style=flat-square&logo=tesla&logoColor=white" alt="Tesla Fan" />
-  <img src="https://img.shields.io/badge/Innovation%20Driver-00ff00?style=flat-square&logo=lightning&logoColor=black" alt="Innovation Driver" />
 </div>
 
 ---
@@ -17,8 +15,6 @@
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100" alt="Coding" />
   <img src="https://media.giphy.com/media/3o7btTODQcZhN6eLQs/giphy.gif" width="100" alt="Tesla" />
 </div>
-
-> _"The future belongs to those who believe in the beauty of their dreams."_ - **Elon Musk**
 
 I'm a **Full Stack Developer** who believes in pushing boundaries and building the future. Like Tesla's approach to innovation, I focus on creating solutions that are not just functional, but revolutionary.
 
@@ -72,17 +68,6 @@ I'm a **Full Stack Developer** who believes in pushing boundaries and building t
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=cstrp&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="Trophies" />
-</div>
-
----
-
-## 🚗 Tesla-Inspired Quote
-
-<div align="center">
-  <blockquote>
-    <p><em>"When something is important enough, you do it even if the odds are not in your favor."</em></p>
-    <cite>— Elon Musk</cite>
-  </blockquote>
 </div>
 
 ---
