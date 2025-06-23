@@ -1,84 +1,109 @@
-<h2 align="center">
-  <img src="https://i.giphy.com/3o7btTODQcZhN6eLQs.webp" width="50"> 
-  Hi! My name is Valery, and I'm a Full Stack Developer
-  <img src="https://i.giphy.com/3o7btTODQcZhN6eLQs.webp" width="50"> 
-</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,9,9&height=200&section=header&text=Valery%20N&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Innovation%20Driver%20%7C%20Future%20Builder&descAlignY=55&descAlign=50" alt="Header" />
+</div>
 
-
----
-
-### 🌟 About Me
-
-I'm a dedicated developer with a love for building dynamic, user-friendly applications. With a solid foundation in both frontend and backend technologies, I strive to create seamless, scalable solutions. My journey in development began with a fascination for how things work under the hood, leading me to explore various technologies and frameworks.
-
-<blockquote align="center">
-  <p>"Never give up, because great things take time."</p>
-  <cite>— <i>Naruto</i></cite>
-</blockquote>
-
-- 🌱 I’m currently learning **[VUE]** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- 💬 Ask me about **JavaScript, TypeScript, React, Angular, Node.js, and Docker**
-- ⚡ Fun fact: I love watching anime and often find inspiration for my projects from it!
-
----
-
-### 🛠 Languages and Tools
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/angular/DD0031" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/express/000000" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="prisma logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo"  />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=cstrp&style=flat-square&color=00ff00" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Tesla%20Fan-FF0000?style=flat-square&logo=tesla&logoColor=white" alt="Tesla Fan" />
+  <img src="https://img.shields.io/badge/Innovation%20Driver-00ff00?style=flat-square&logo=lightning&logoColor=black" alt="Innovation Driver" />
 </div>
 
 ---
 
-### 📊 GitHub Stats
+## 🚗⚡ About Me
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=cstrp&locale=en&mode=weekly&theme=rose_pine&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=cstrp&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cstrp&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=rose_pine&hide_border=true" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7btTODQcZhN6eLQs/giphy.gif" width="100" alt="Tesla" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100" alt="Coding" />
+  <img src="https://media.giphy.com/media/3o7btTODQcZhN6eLQs/giphy.gif" width="100" alt="Tesla" />
+</div>
+
+> _"The future belongs to those who believe in the beauty of their dreams."_ - **Elon Musk**
+
+I'm a **Full Stack Developer** who believes in pushing boundaries and building the future. Like Tesla's approach to innovation, I focus on creating solutions that are not just functional, but revolutionary.
+
+### 🎯 Current Mission
+
+- 🔥 **Accelerating** into Vue.js ecosystem
+- ⚡ **Charging up** my TypeScript skills
+- 🚀 **Launching** innovative web applications
+- 🌟 **Inspiring** through clean, efficient code
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50" alt="Tech" />
+  <strong>Frontend Power</strong>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50" alt="Tech" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,angular,vue,ts,js,html,css,tailwind" alt="Frontend" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50" alt="Tech" />
+  <strong>Backend Engine</strong>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50" alt="Tech" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgresql,mongodb,docker" alt="Backend" />
 </div>
 
 ---
 
-### 📫 How to Reach Me
+## 📊 Performance Metrics
 
-<div align="left">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cstrp&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ff00&text_color=ffffff&icon_color=00ff00" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cstrp&theme=radical&hide_border=true&background=0D1117&stroke=00ff00" alt="Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cstrp&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ff00&text_color=ffffff" alt="Languages" />
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cstrp&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="Trophies" />
+</div>
+
+---
+
+## 🚗 Tesla-Inspired Quote
+
+<div align="center">
+  <blockquote>
+    <p><em>"When something is important enough, you do it even if the odds are not in your favor."</em></p>
+    <cite>— Elon Musk</cite>
+  </blockquote>
+</div>
+
+---
+
+## 📫 Connect & Collaborate
+
+<div align="center">
   <a href="https://www.linkedin.com/in/valery-n-245876235/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://t.me/Cstrp" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,9,9&height=100&section=footer" alt="Footer" />
+</div>
+
+<div align="center">
+  <sub><em>Ready to accelerate the future together? Let's build something amazing! 🚗⚡</em></sub>
 </div>
