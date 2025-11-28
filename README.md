@@ -4,9 +4,6 @@
 
 ---
 
-## ​​​ About Me
-Fullstack Developer specializing in **AI-powered tools, media-buying automation, crypto-aggregators**, and scalable web systems. I deeply enjoy architecting clean client-server solutions and mentoring devs.
-
 **Core strengths:**
 - **Frontend:** Vue 3 & Nuxt 3, React, TypeScript, TailwindCSS, Anime.js  
 - **Backend:** Node.js, NestJS, Prisma ORM, PostgreSQL  
